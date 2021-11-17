@@ -6,6 +6,3 @@ This is a demo repo!
 
 Some more text
 
-## Local dev
-
-1. Open index.html in browser
