@@ -6,3 +6,9 @@ This is a demo repo!
 
 Some more text
 
+## Local dev
+
+1. Open index.html in browser
+2. This is step 2
+3. Another step again
+4. This is crazy
